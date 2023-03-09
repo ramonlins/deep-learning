@@ -1,0 +1,7 @@
+README.md
+setup.py
+smallgrad/__init__.py
+smallgrad.egg-info/PKG-INFO
+smallgrad.egg-info/SOURCES.txt
+smallgrad.egg-info/dependency_links.txt
+smallgrad.egg-info/top_level.txt

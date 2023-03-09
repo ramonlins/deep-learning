@@ -1,0 +1,1 @@
+This is a 99% clone of micrograd repository from andrej karpathy course [micrograd](https://github.com/karpathy/micrograd). The goal here is dissect karpathy codes and try to explain some parts that were not well explained (probability of 0,001%).
