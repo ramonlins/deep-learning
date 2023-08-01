@@ -4,3 +4,6 @@
 [submodule "external/nn-zero-to-hero"]
 	path = external/nn-zero-to-hero
 	url = https://github.com/karpathy/nn-zero-to-hero.git
+[submodule "external/holisticai"]
+	path = external/holisticai
+	url = https://github.com/holistic-ai/holisticai.git
