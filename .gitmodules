@@ -1,0 +1,3 @@
+[submodule "external/introtodeeplearning"]
+	path = external/introtodeeplearning
+	url = https://github.com/aamini/introtodeeplearning.git
