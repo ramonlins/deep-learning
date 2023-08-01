@@ -1,3 +1,6 @@
 [submodule "external/introtodeeplearning"]
 	path = external/introtodeeplearning
 	url = https://github.com/aamini/introtodeeplearning.git
+[submodule "external/nn-zero-to-hero"]
+	path = external/nn-zero-to-hero
+	url = https://github.com/karpathy/nn-zero-to-hero.git
