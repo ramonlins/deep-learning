@@ -15,6 +15,7 @@ Example script and explanations to introduce you to the core concepts of deep le
 
 ### Lecture 2: Deep Sequence Modeling
 Explore deep learning techniques for sequence modeling, with practical examples.
+- L2-recurrence.ipynb
 - under development ...
 
 ### Lecture 3: Deep Computer Vision
