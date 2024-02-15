@@ -57,3 +57,50 @@ Each lecture folder contains example scripts and explanations to help you grasp 
 Feel free to contribute your own scripts, insights, or enhancements to the examples. Let's embark on this journey to master the foundations of deep learning together!
 
 Happy learning!
+
+## References
+Professor Tom Yeh recently developed 14  exercises that dive deep into the core of Generative AI, showing us that even the most advanced concepts can be understood from the ground up.
+
+These exercises cover a wide range of topics, from the basics of vector databases to the complexities of generative adversarial networks (GANs) and transformers.
+
+[1] Vector Database
+https://lnkd.in/gTanDTMj
+
+[2] Self Attention
+https://lnkd.in/gDW8Um4W
+
+[3] Transformer
+https://lnkd.in/g39jcD7j
+
+[4] GAN
+https://lnkd.in/gyKzNGDy
+
+[5] LLM Sampling
+https://lnkd.in/gwe69_84
+
+[6] Backpropagation
+https://lnkd.in/gsiU2uc2
+
+[7] Autoencoder
+https://lnkd.in/g2rM9iV2
+
+[8] Dropout
+https://lnkd.in/g4KHF-Hd
+
+[9] Batch Normalization
+https://lnkd.in/gVjknYkU
+
+[10] Mixture of Experts (MOEs)
+https://lnkd.in/gPFdQdsW
+
+[11] Recurrent Neural Network (RNN)
+https://lnkd.in/gDANw4iH
+
+[12] Mamba
+https://lnkd.in/gGcS2sMa
+
+[13] MLP in Pytorch
+https://lnkd.in/gnjif8mX
+
+[14] Matrix Multiplication
+https://lnkd.in/gXKnQQF3
